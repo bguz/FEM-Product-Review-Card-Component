@@ -112,6 +112,9 @@ body {
     color: var(--aurometal);
     text-decoration: line-through;
 }
+.attribution {
+    display: none;
+}
 
 @media (min-width: 768px) {
     body {
@@ -134,5 +137,16 @@ body {
     }
     .info {
         width: 50%;
+    }
+    .attribution {
+        display: block;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        text-align: center;
+        background: var(--cream);
+        width: 100%;
+        padding: 1.5rem 0;
+        border: 1px solid rgb(212, 212, 212);
     }
 }

@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://bguz.github.io/FEM-Product-Review-Card-Component/)
+- Live Site URL: (https://bguz.github.io/FEM-product-review-card-component/)
 
 ## My process
 
